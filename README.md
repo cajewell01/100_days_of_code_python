@@ -4,7 +4,7 @@ These are the exercises and projects I completed on my own without a solution, u
 ## Day 1
 This was just a basic intro. We covered printing, inputs, and concatenation. There were no exercies just the project. 
 
-#### [Project: Band Name Generator](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-1-band-name-generator.py)
+#### [Project: Band Name Generator](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-1-project-band-name-generator.py)
 Using the city you grew up in and the name of a pet, create a program that will print the name of your new band. 
 
 ###### My Thoughts & Things I Learned
