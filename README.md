@@ -34,12 +34,21 @@ Important: You are not allowed to use the choice() function.
 
 Line 8 splits the string names_string into individual names and puts them inside a List called names. For this to work, you must enter all the names as name followed by comma then space. e.g. name, name, name
 
-
 ###### My Thoughts & Things I Learned
 I really liked this challenge. This one made me really stop and think about what we were trying to achieve with the final outcome. I was able to incorporate things I learned previously and use the new knowledge from today. It also made me think about the way computers count items starting with 0. 
 
-
 #### [4-3-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-4-3-exercise.py)
+Your job is to write a program that allows you to mark a square on the map using a two-digit system. The first digit is the vertical column number and the second digit is the horizontal row number. e.g.:
+
+First your program must take the user input and convert it to a usable format.
+
+Next, you need to use it to update your nested list with an "x".
+
+###### My Thoughts & Things I Learned
+Again I really liked the logic of figuring out the code. Once you moved past thinking of the logic the code wa very straightforward. I did add a note in my code so as I am learning I can go back to it and remember the logic behind what I did. 
+
+
+#### [Project: Rock, Paper, Scissors](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-4-project-rock-paper-scissors.py)
 Your job is to write a program that allows you to mark a square on the map using a two-digit system. The first digit is the vertical column number and the second digit is the horizontal row number. e.g.:
 
 First your program must take the user input and convert it to a usable format.
