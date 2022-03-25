@@ -175,3 +175,46 @@ And also how you will give feedback to the player.
 
 ###### My Thoughts & Things I Learned
 I think this tied up the lessons of the day very well. After the previous two exercises this felt straightforward. Although, I did originally miss if, elif statements for there being a draw. But I figured it out quickly at the end when playing with the game provided by the instructor. 
+
+## Day 5
+Today was about For Loops and Ranges. 
+
+#### [5-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-1-exercise.py)
+You are going to write a program that calculates the average student height from a List of heights.
+
+The average height can be calculated by adding all the heights together and dividing by the total number of heights.
+
+Important You should not use the sum() or len() functions in your answer. You should try to replicate their functionality using what you have learnt about for loops.
+
+###### My Thoughts & Things I Learned
+This challange was hard for me. I thought I understood For Loops in the lecture video but realized I needed more help. I figured out as much as I could on my own, but then needed help. I like to do it on my own, but will use the instructor video if needed on an exercise. However, I always try to be very honest when I did it on my own or with help.  
+
+#### [5-2-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-2-exercise.py)
+You are going to write a program that calculates the highest score from a List of scores.
+
+Important you are not allowed to use the max or min functions. The output words must match the example.
+
+###### My Thoughts & Things I Learned
+After the help I recieved on the first exercise this one came a bit easier. Because there was a lapse in my learning I had forgot about if statements and that made this exercise take longer than it should have. After reviewing the previous days I realized that an if statement would work well here and it helped me solve the exercise. 
+
+#### [5-3-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-3-exercise.py)
+You are going to write a program that calculates the sum of all the even numbers from 1 to 100. Thus, the first even number would be 2 and the last one is 100:
+
+Important, there should only be 1 print statement in your console output. It should just print the final total and not every step of the calculation.
+
+###### My Thoughts & Things I Learned
+This was the first project that used Range and I enjoyed tying together range and for loops. After the previous two challenges this one felt easier. 
+
+
+#### [5-4-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-4-exercise.py)
+You are going to write a program that automatically prints the solution to the FizzBuzz game.
+
+###### My Thoughts & Things I Learned
+I struggled with this one, but only because of the math portion of the game. The logic of the if statements and the order needed was easy (I like if statements), but the math functions got me. I need to do a deeper dive into the math functions again. I knew what I wanted to happen, but it took awhile to get there with the math. 
+
+
+#### [Project: Coming Soon](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-4-project-rock-paper-scissors.py)
+Still to be added....coming soon!
+
+###### My Thoughts & Things I Learned
+Coming soon... 
