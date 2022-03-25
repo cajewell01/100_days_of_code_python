@@ -213,8 +213,8 @@ You are going to write a program that automatically prints the solution to the F
 I struggled with this one, but only because of the math portion of the game. The logic of the if statements and the order needed was easy (I like if statements), but the math functions got me. I need to do a deeper dive into the math functions again. I knew what I wanted to happen, but it took awhile to get there with the math. 
 
 
-#### [Project: Coming Soon](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-4-project-rock-paper-scissors.py)
-Still to be added....coming soon!
+#### [Project: Password Generator](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-project-password-generator.py)
+There were no written instructions for this project, but the gist was to take what we had learned from the day and build off the provided code to make a password generator. 
 
 ###### My Thoughts & Things I Learned
-Coming soon... 
+This project took a LOT of Googleing because I had never used join or shuffle before. The earlier exercises really helped prepare me for this final project. I will say that I want to look more into .join and learn more about it and how it works behind the scenes. 
