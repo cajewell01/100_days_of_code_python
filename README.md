@@ -218,3 +218,31 @@ There were no written instructions for this project, but the gist was to take wh
 
 ###### My Thoughts & Things I Learned
 This project took a LOT of Googleing because I had never used join or shuffle before. The earlier exercises really helped prepare me for this final project. I will say that I want to look more into .join and learn more about it and how it works behind the scenes. 
+
+## Day 6
+Today was about While Loops, Functions, and Indentations. The entire day was spent at [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) using the Hurdle and Maze exercises. 
+
+#### [6-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-1-exercise.png)
+
+###### My Thoughts & Things I Learned
+This was the first exercise of defining functions and I loved learning about this feature. I can see where this will be super helpful down the line. Through a little bit of trial and error this challenge wasn't really bad. It did take me a moment on the for loop to think about the number of steps, but overall I would say this challenge was more on the easy/medium side. 
+
+#### [6-2-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-2-exercise.png) 
+
+###### My Thoughts & Things I Learned
+This was the first use of the while loop and the program needed to run until it got to flag and then stopped. I found this task actually easier than the previous because I just needed to tell the program to keep running until false. 
+
+#### [6-3-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-3-exercise.png)
+
+###### My Thoughts & Things I Learned
+I struggled with this one at first, but that was because I did not know that the use of not was something I could choose to do. Once I figured out using not coding the if/elif statement was easy. I do like that I can use not when making a loop because sometimes that logic is far more helpful than only making a positive statement. 
+
+#### [6-4-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-4-exercise.png)
+
+###### My Thoughts & Things I Learned
+I knew what I wanted the program to do, but I didn't know how to get there. I needed the help to know that I needed to add some while loops to the hurdle function. Although, I kept with it I really struggled with figuring out the logic here.  
+
+#### [Project: Reeborg's World Maze](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-5-project.png)
+
+###### My Thoughts & Things I Learned
+Again, this was something that was hard for me. I'm not sure where I need to turn, but I really think I need to get more practice with logic problems like this. I understand what the code does, I can vizualize what I want to happen, but there is a disconnect for me in turning it into code. This is something I need to improve on because I would like to do this will no help in the future. 
