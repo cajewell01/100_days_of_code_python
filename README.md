@@ -222,7 +222,7 @@ This project took a LOT of Googleing because I had never used join or shuffle be
 ## Day 6
 Today was about While Loops, Functions, and Indentations. The entire day was spent at [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) using the Hurdle and Maze exercises. 
 
-#### [6-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-1-exercise.png)
+#### [6-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-6-1-exercise.PNG)
 
 ###### My Thoughts & Things I Learned
 This was the first exercise of defining functions and I loved learning about this feature. I can see where this will be super helpful down the line. Through a little bit of trial and error this challenge wasn't really bad. It did take me a moment on the for loop to think about the number of steps, but overall I would say this challenge was more on the easy/medium side. 
